@@ -1,4 +1,4 @@
-# for-her.github.io 
+# QoQ-2022.github.io 
 ## 豆瓣女权小组资料分享
 
 在豆瓣女权小组看到了很多有志向改变充满性别歧视的环境的媎妹们，十分感动。由于最近分享女性主义理论资料的网站相继失效，所以在次建立github repository保存、分享相关资料。链接见下方。所有书籍资料来源都是[zlibrary](https://z-lib.org/) . 
